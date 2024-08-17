@@ -29,6 +29,13 @@ Outcome:
 
 The analysis provided valuable insights into the financial performance of companies, identifying both the top performers and those needing improvement. The findings offer a clear view of market dynamics and guide strategic decisions for enhancing market position and sales growth.
 
+Insights:
+
+Balkrishna Industries and Cholaman Investment and Finance has the Highest Market Capital at 21.37K Crores and 20.83K Crores respectively which is 606.6 % more than Orient Cement which has the lowest Market Capital at 3024 Crores.
+
+NCC has the Highest Quarterly Sales at 2780 Crores which is 14531.5 % more than Bombay Burmah which has the lowest Quarterly Sales of 19 Crores.
+
+
 Conclusion:
 
 This analysis underscores the importance of data-driven approaches and powerful visualization tools like Power BI in understanding market trends and company performance. By leveraging these insights, businesses can refine their strategies to achieve greater success in a competitive market.
