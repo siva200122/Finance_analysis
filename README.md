@@ -6,15 +6,19 @@ Financial Data Analysis Project Overview
 This project focused on a comprehensive analysis of financial data from various companies worldwide, with the primary objective of identifying key market trends and top-performing companies. With Power BI for visualization, I conducted an in-depth exploratory data analysis (EDA) to uncover insights related to market capital and quarterly sales performance.
 
 Key Highlights:
+
 Data Exploration: The analysis began with a detailed exploration of the dataset, examining its structure, variables, and overall trends, providing a strong foundation for further analysis.
 
 Trend Identification: 
+
 By analyzing the financial performance across different companies, significant trends were identified, including variations in market capital and quarterly sales figures.
 
 Insight Generation: 
+
 Advanced analytical techniques were employed to generate actionable insights, such as identifying the top 10 companies with the highest market capital, the top 10 companies with the highest quarterly sales, and the bottom 10 companies with the lowest market capital and quarterly sales.
 
 Problem Diagnosis:
+
 The analysis highlighted the strengths and weaknesses of companies, particularly focusing on those with declining market capital and sales figures. This information is crucial for understanding potential risks and opportunities within the market.
 
 Visualization and Reporting: 
